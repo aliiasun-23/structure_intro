@@ -1,3 +1,5 @@
+sudo apt update
+sudo apt install -y build-essential
 nano knight.c
 gcc knight.c -o knight
 ./knight
